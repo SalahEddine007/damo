@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/SalahEddine007/demo",
+  "homepage": "http://github.com/SalahEddine007/demo",
   "dependencies": {
     "classnames": "^2.2.6",
     "primeicons": "^1.0.0",
